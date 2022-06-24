@@ -1,1 +1,1 @@
-# IDJ
+This repository contains the data, R script and brms fits used for the paper by M. van Boekel, "Kinetics of heat-induced changes in dairy products: deelopments in data analysis and modeling techniques", published in International Dairy Journal 126(2022)105187
